@@ -1,0 +1,12 @@
+channels:
+    - conda-forge
+dependencies:
+    - python
+    - pip
+    - plotly
+    - matplotlib
+    - jupyterlab
+    - cartopy
+    - geemap
+    - earthengine-api
+    - pandas
